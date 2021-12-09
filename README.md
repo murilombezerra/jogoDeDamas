@@ -1,6 +1,6 @@
 # 💻 Projeto de Faculdade - Jogo de Damas
 
-Criei um jogo de damas usando o Scilab, com interface gráfica.
+Fiz dois jogos de damas. O primeiro já tem um repositório próprio, mas fiz por meio da matriz. Este é feito com interface gráfica, muito mais complexo mas o resultado final ficou bem melhor.
 
 <br>
 

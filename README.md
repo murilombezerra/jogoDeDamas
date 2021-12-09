@@ -1,6 +1,6 @@
 # 💻 Projeto de Faculdade - Jogo de Damas
 
-Fiz dois jogos de damas. O primeiro já tem um repositório próprio, mas fiz por meio da matriz. Este é feito com interface gráfica, muito mais complexo mas o resultado final ficou bem melhor.
+Fiz dois jogos de damas. O primeiro já tem um repositório próprio, mas fiz por meio da matriz. Este é feito com interface gráfica, muito mais complexo, mas o resultado final ficou bem melhor.
 
 <br>
 

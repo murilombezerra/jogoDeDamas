@@ -1,6 +1,5 @@
-# 💻 Jogo de Damas
+# 💻 Projeto de Faculdade - Jogo de Damas
 
-Projeto de Faculdade
 Criei um jogo de damas usando o Scilab, com interface gráfica.
 
 <br>

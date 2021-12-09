@@ -17,3 +17,10 @@ Fiz dois jogos de damas. O primeiro já tem um repositório próprio, mas fiz po
 <br>
 
 ![4](https://user-images.githubusercontent.com/66878007/145415940-48e9a1d6-d43c-45a0-acca-d51a4c00ce3a.png)
+
+<br>
+
+# 🚀 Tecnologias
+
+<p>✔️ Scilab</p>
+<p>✔️ Graphical user interface</p>
